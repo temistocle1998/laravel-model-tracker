@@ -1,0 +1,8 @@
+vendor
+/.env
+.phpunit.result.cache
+.phpunit-watcher.cache
+composer.lock
+composer.phar
+.DS_Store
+Thumbs.db
