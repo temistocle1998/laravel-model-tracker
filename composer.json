@@ -1,7 +1,6 @@
 {
     "name": "temistocle1998/laravel-model-tracker",
     "description": "A Laravel package for tracking model changes, including old values, new values, and the user responsible for the changes",
-    "version": "1.2.1",
     "type": "library",
     "license": "MIT",
     "authors": [
