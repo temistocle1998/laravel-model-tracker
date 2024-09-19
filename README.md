@@ -44,7 +44,7 @@ A lightweight Laravel package to track changes in your models. Automatically log
    In any model where you want to track changes, simply include the `TracksChanges` trait:
 
    ```php
-   use YourNamespace\Tracker\Traits\TracksChanges;
+   use Tracker\Traits\TracksChanges;
 
    class Product extends Model
    {
@@ -82,7 +82,7 @@ When a model is updated, the following log is created in the `model_changes` tab
 You can fetch model changes using the `ModelChange` model.
 
 ```php
-use YourNamespace\Tracker\Models\ModelChange;
+use Tracker\Models\ModelChange;
 
 // Get all changes for a specific model
 $changes = ModelChange::where('model_type', 'App\Models\Product')
