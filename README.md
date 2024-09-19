@@ -4,9 +4,9 @@ Here's an example `README.md` for your Laravel "Tracker" package:
 
 # Laravel Model Tracker
 
-[![Latest Stable Version](https://poser.pugx.org/your-namespace/laravel-model-tracker/v/stable)](https://packagist.org/packages/your-namespace/laravel-model-tracker)
-[![Total Downloads](https://poser.pugx.org/your-namespace/laravel-model-tracker/downloads)](https://packagist.org/packages/your-namespace/laravel-model-tracker)
-[![License](https://poser.pugx.org/your-namespace/laravel-model-tracker/license)](https://packagist.org/packages/your-namespace/laravel-model-tracker)
+[![Latest Stable Version](https://poser.pugx.org/temistocle1998/laravel-model-tracker/v/stable)](https://packagist.org/packages/temistocle1998/laravel-model-tracker)
+[![Total Downloads](https://poser.pugx.org/temistocle1998/laravel-model-tracker/downloads)](https://packagist.org/packages/temistocle1998/laravel-model-tracker)
+[![License](https://poser.pugx.org/temistocle1998/laravel-model-tracker/license)](https://packagist.org/packages/temistocle1998/laravel-model-tracker)
 
 A lightweight Laravel package to track changes in your models. Automatically logs all changes, including old values, new values, and the user responsible for the changes.
 
