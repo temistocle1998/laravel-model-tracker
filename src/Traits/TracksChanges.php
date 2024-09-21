@@ -2,7 +2,7 @@
 namespace Tracker\Traits;
 
 use Illuminate\Support\Facades\Auth;
-use App\Models\ModelChange;
+use Tracker\Models\ModelChange;
 
 trait TracksChanges
 {
